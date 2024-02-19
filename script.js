@@ -1,4 +1,4 @@
-
+alert("Hello welcome to Tangy Tales");
 var nav = document.getElementsByTagName("nav")[0];
 
 
